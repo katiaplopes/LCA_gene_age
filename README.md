@@ -11,7 +11,7 @@ Genomic phylostratigraphy is a statistical approach for reconstruction of macroe
 
 [Published paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-3062-y): "Evolutionary hallmarks of the human proteome: chasing the age and coregulation of protein-coding genes". 
 
-Script to create the plot along time-scale(https://katiaplopes.github.io/LCA_gene_age/plot_geneage.R). You can see the plot [here](https://katiaplopes.github.io/LCA_gene_age/geneage_plot_cumulative.pdf) 
+[Script to create the plot along time-scale](https://katiaplopes.github.io/LCA_gene_age/plot_geneage.R). You can see the plot [here](https://katiaplopes.github.io/LCA_gene_age/geneage_plot_cumulative.pdf)! 
 
 *******************************
 Created by:
