@@ -13,6 +13,11 @@ Genomic phylostratigraphy is a statistical approach for reconstruction of macroe
 
 [Script to create the plot along time-scale](https://katiaplopes.github.io/LCA_gene_age/plot_geneage.R). You can see the plot [here](https://katiaplopes.github.io/LCA_gene_age/geneage_plot_cumulative.pdf)! 
 
+[Script by clade](https://katiaplopes.github.io/LCA_gene_age/plot_genepeaks.R). The plot is [here](https://katiaplopes.github.io/LCA_gene_age/geneage_data_cumulative.pdf)! 
+
+To create the tables with the cumulative values is necessary to map the genes in the orthologous groups. The time that I was working with this I've created some mySQL databases then, it was very simple to search for the LCA. A python script to retrieve data from OMA database and other shell scripts are in this repository as an example. 
+
+
 *******************************
 Created by:
  - Katia de Paiva Lopes
