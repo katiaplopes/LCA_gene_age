@@ -1,4 +1,4 @@
-## Random scripts
+## Description
 #### August 01, 2019
 
 > All code is in R and depends on packages from CRAN and/ or Bioconductor.
