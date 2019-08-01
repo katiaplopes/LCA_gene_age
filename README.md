@@ -7,7 +7,7 @@
 Scripts to try
 *******************************
 
-Genomic phylostratigraphy is a statistical approach for reconstruction of macroevolutionary trends based on the principle of founder gene formation and punctuated emergence of protein families (Domazet-Loso et al 2007). Based on this methodology it's possible to determine the age for a given gene. The scripts presented here are from an integrative analysis that uses a human tissue RNASeq data, a database of orthologous proteins that allows finding the oldest relatives to each human protein along different species; the taxonomy mapping of genes to lineage clades from the NCBI Taxonomy database (www.ncbi.nlm.nih.gov/taxonomy); and the time-scale mapping provided by TimeTree resource (www.timetree.org). 
+Genomic phylostratigraphy is a statistical approach for reconstruction of macroevolutionary trends based on the principle of founder gene formation and punctuated emergence of protein families (Domazet-Loso et al 2007). Based on this methodology it's possible to determine the age for a given gene! The scripts presented here are from an integrative analysis that uses: (1) a human tissue RNASeq dat; (2) a database of orthologous proteins that allows finding the oldest relatives to each human protein along different species; (3) the taxonomy mapping of genes to lineage clades from the NCBI Taxonomy database (www.ncbi.nlm.nih.gov/taxonomy) and; (4) the time-scale mapping provided by TimeTree resource (www.timetree.org).
 
 [Published paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-3062-y): "Evolutionary hallmarks of the human proteome: chasing the age and coregulation of protein-coding genes". 
 
